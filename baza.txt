@@ -1,0 +1,15 @@
+1; Woda; Napoje; 5.00; Woda mineralna w szklance
+2; Sok jablkowy; Napoje; 8.00; Sok jablkowy swiezy w szklance
+3; Cola-Cola; Napoje; 8.50; Napoj gazowany Coca-Cola
+4; Mirinda; Napoje; 8.50; Napoj gazowany o smaku pomaranczy
+5; Herbata; Napoje; 6.00; Parzona herbata w filizance
+6; Jajecznica na boczku; Sniadania; 12; Jajecznica z 3 jajek na swiezym boczku
+7; Tosty; Sniadania; 8; Dwa tosty z serem i szynka
+8; Platki zbozowe; Sniadania; 11.50; Swieze platki na mleku
+9; Kanapka; Sniadania; 10; Kanapka z salata i szynka
+10; Drozdzowka; Sniadania; 9; Slodka bulka z makiem
+11; Kotlet schabowy; Obiady; 17; Smazony kotlet z surowka
+12; Spaghetii; Obiady; 19.50; Makaron z sosem pomidorowym
+13; Pierogi; Obiady; 18; Dziesiec piergow z miesem
+14; Pizza; Obiady; 20; Duza pizza z peperoni 
+15; Kurczak z frytkami; Obiady; 18.50; Pieczony kurczak z dodatkiem frytek
